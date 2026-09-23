@@ -1,2 +1,2 @@
-# projetos_cdt
-Repositório dedicado ao estudo e prática de Metodologias Ágeis. Este espaço visa compartilhar conhecimento sobre os frameworks mais populares (Scrum, Kanban, etc.), princípios de desenvolvimento ág…
+# projeto-burger-house
+Projeto Final do Curso de Web Design na Vocação - Tema Hamburgueria, Pedro henrique
